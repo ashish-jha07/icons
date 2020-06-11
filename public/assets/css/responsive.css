@@ -1,0 +1,246 @@
+@media(max-width: 1366px){
+    .icon-set .single-icon a {
+    width: 82px;
+    height: 82px;}
+
+    .icon-set .single-icon a img {
+    width: 30px;
+    margin: 0 auto;
+}
+.editor-sel{
+        width: 236px;
+}
+.palette a {
+    width: 35px;
+    height: 35px;}
+
+    .active-color:before{
+        font-size: 16px;
+    }
+    .color-pic-tool .jscolor{
+            width: 120px;
+    }
+    .edit-icon span svg {
+    width: 89px;
+}
+.active-tools .edit-icon span {
+    padding: 25px;
+    margin:30px 0;
+}
+.border-counter .slider{
+        width: 125px;
+}
+
+.edit-icon{
+        padding: 0 25px;
+}
+/*
+.edit-icon-content {
+    padding: 20px 0;
+}*/
+}
+
+@media(max-width: 1199px){
+    .browse-Icon .col-sm-3 {
+    max-width: 33.333%;
+    flex: 0 0 33.333%;
+}
+}
+
+@media(max-width: 991px){
+  .browse-Icon .col-sm-3 {
+    max-width: 50%;
+    flex: 0 0 50%;
+    
+}
+.browse-innner-icon{
+    width: 95px;
+}
+
+.bar-heading h2{
+    font-size: 23px;
+}
+.bar-heading h2{
+    font-size: 23px;
+}
+.left-bar-menu ul a{
+    padding-left: 20px;
+}
+.bar-heading{
+    padding-left: 20px;
+}
+.editor-box-child .col-sm-3.pdt-0 {
+    display: none;
+    visibility: hidden;
+}
+
+.editor-sel {
+    display: none;
+    visibility: hidden;
+}
+header {
+    padding: 7px 15px;
+}
+}
+/*
+
+.browse-Icon .col-sm-3 {
+    max-width: 33.333%;
+    flex: 0 0 33.333%;
+}*/
+
+
+
+/*-------------------------767px-------------------------------------*/
+@media(max-width: 767px) {
+       .browse-innner-icon {
+    width: 80px;
+}.latest-icon-inner img {
+    width: 63px;
+    margin: 10px 0;
+}
+
+		header {
+		    padding: 7px 15px;
+		}
+		section {
+    padding: 50px 20px;
+}
+.mainform-custume-icon {
+    margin-top: 50px;
+    }
+section.latest-icon {
+    padding: 50px 20px 50px 20px;
+}
+footer#footer {
+    padding: 50px 20px;
+}
+.custom-icon-apply-from {
+    padding: 70px 20px;
+    }
+    .banner {
+    padding: 50px 20px;
+}
+section.main_custumer_review {
+    padding: 150px 20px 100px 20px;
+}
+		.start-features{
+    padding: 50px 20px;
+}
+
+.search-bar form {
+    padding: 0 0px;
+    position: relative;
+}
+
+
+
+.search-bar select.form-control {
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+.search-bar button.search-btn.btn {
+    display: block;
+    width: 100%;
+    margin-top: 60px;
+    border-radius: 0px;
+}
+.search-bar input.form-control {
+    display: block;
+    width: 100%;
+    position: absolute;
+    float: right;
+    top: 60px;
+    left: 0px;
+    border-radius: 0px;
+}
+
+.icon-result {
+    text-align: center;
+}
+
+.links-footers {
+    margin-top: 50px;
+}
+
+
+/*----------*/
+
+.icon-set {
+    padding: 0 20px;
+}
+.bar-heading {
+    padding-left: 20px;
+}
+
+.missing-icon-section {
+    padding: 90px 20px;
+    }
+section.icon-listing .row .col-md-3.col {
+    display: none;
+}
+.editor-box-child .row .col-sm-3.pdt-0 {
+    display: none;
+}
+div#edit-color {
+        float: none !important;
+}
+
+.editor-box-child .row .col-sm-9.pdt-0 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.editor-sel {
+    display: none;
+}
+.editor-right-bar {
+    width: 100%;
+    text-align: center;
+}
+.edit-icon {
+    text-align: center;
+    float: none;
+    display: inline-block;
+}
+
+.edit-icon-content {
+    width: 100%;
+    text-align: center;
+}
+/*----------*/
+.banner h1{
+    font-size: 28px;
+}
+.inner-haeding h2{
+    font-size: 28px;
+}
+.icon-categorie-ico a span{
+    font-size: 18px;
+}
+.icon-categorie-ico a img {
+    width: 110px;}
+
+header#Header2 .row {
+    display: inline-block;
+    width: 100%;
+}
+}
+
+
+@media(max-width: 500px) {
+.browse-innner-icon {
+    width: 50px;
+}
+img{width: 100%;}
+.header-top img {
+    width: 90px;
+}
+.features-box .col {
+    flex-basis: auto;
+}
+
+
+.features-icon img {
+    width: 100px;}
+}

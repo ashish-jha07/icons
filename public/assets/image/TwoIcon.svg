@@ -1,0 +1,13 @@
+<svg version="1.1" id="brand-skill" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewBox="0 0 160 108" enable-background="new 0 0 160 108" xml:space="preserve" style="
+"><g id="heart"><path fill="none" d="M23.6,101.8c-20-11.5-19-24-19-24c0-7.3,5.9-13.2,13.2-13.2c4,0,7.5,1.8,10,4.5c2.4-2.8,6-4.5,10-4.5
+                				c7.3,0,13.2,5.9,13.2,13.2c0,0,1,12.6-19,24h40.2"></path><path id="heartpath" fill="none" stroke="#37a000" stroke-width="2.979" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0, 1000" d="
+                				M23.6,101.8c-20-11.5-19-24-19-24c0-7.3,5.9-13.2,13.2-13.2c4,0,7.5,1.8,10,4.5c2.4-2.8,6-4.5,10-4.5c7.3,0,13.2,5.9,13.2,13.2
+                				c0,0,1,12.6-19,24h40.2" style="stroke-dasharray: 0, 168.126;"></path></g><g id="pen">
+		<g class="lievo-filledicon lievo-lineicon">
+			<g data-svg-origin="11.319998741149902 10.998751640319824" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+				<g data-svg-origin="11.319998741149902 47.00023937225342" style="transform: matrix(1, 0, 0, 1, 0, 0);">
+					<path fill="none" stroke="#22a7f0" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M50.63,11.37c0.52,0.52,0.48,1.44-0.07,2.08c-2.26,2.62-12.33,13.78-14.36,16.36c-1.42,1.81-3.66,5.66-7.86,7.86c-0.38,0.2-0.69,0.7-1.07,1.07c-0.61,0.58-1.47,0.67-2.14,0.01l-2-2c-0.66-0.66-0.49-1.45,0.13-2.02c0.39-0.37,0.87-0.69,1.07-1.07c2.2-4.2,6.05-6.44,7.86-7.86c2.58-2.03,13.74-12.1,16.36-14.36C49.19,10.89,50.11,10.84,50.63,11.37z" style="stroke:#37a000;"></path>
+					<path class="lievo-altstroke" fill="none" stroke="#22a7f0" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M24.06,37.72l-1.02-1.02c-7.79-1.6-5.35,7.48-11.72,9.66c6.37,2.1,15.99-1.11,13.86-7.52L24.06,37.72z" style="stroke: #37a000;"></path>
+				</g>
+			</g>
+		</g></g></svg>

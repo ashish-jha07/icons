@@ -1,0 +1,133 @@
+.bg-light-gray{
+	background: #fafafa;
+}
+
+.account-settings .nav {
+    background: #fff;
+    box-shadow:0px 3px 7px 0px rgba(0, 0, 0, 0.08);
+    padding-bottom: 40px;
+}
+
+.account-settings .nav a {
+    padding: 15px;
+    border-bottom: solid 1px #eee;
+    text-transform: capitalize;
+     color: #33323a;
+     font-weight: 600;
+     transition: all 0.2s;
+
+}	
+.account-settings .nav a:last-child{
+	border: none;
+}
+
+.nav-icon {
+    margin-right: 10px;
+    float: left;
+    margin-top: 4px;
+}
+
+.account-settings .nav a.active{
+	color: #35c957;
+}
+
+.account-settings .nav a:hover{
+		color: #35c957;
+}
+.account-head {
+    display: inline-block;
+    width: 100%;
+}
+
+.account-inner {
+    display: inline-block;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.08);
+    padding: 40px 30px;
+}
+.profile-head b {
+    font-weight: 600;
+    opacity: 0.9;
+}
+
+.profile-head span {
+    display: block;
+    margin: 15px 0;
+}
+
+.profile-head a {
+    color: #43abfb;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+
+.profile-info {
+    display: inline-block;
+    width: 100%;
+    padding: 30px 20px;
+    margin: 20px 0;
+    border: solid 1px #ededed;
+}
+
+.profile-img {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background: #fafafa;
+    border-radius: 50%;
+    margin-right: 25px;
+}
+
+.profile-img img {
+    width: 30px;
+    margin: 26px 28px;
+}
+
+.profile-name-info {
+    overflow: hidden;
+    display: block;
+}
+
+.profile-name-info h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.profile-name-info span {
+    opacity: 0.8;
+}
+
+
+.form-account .form-group .form-control {
+    height: 50px;
+    border: solid 1px #f0f0f0;
+}
+.form-account .form-group:first-child {
+    padding-right: 15px;
+}
+.form-account .form-group:last-child {
+    padding-left: 15px;
+}
+
+
+
+.phone-number-picker .iti.iti--allow-dropdown {
+    width: 100%;
+    margin-top: 32px;
+}
+
+.iti__arrow{
+    display: none !important;
+}
+.phone-number-picker .iti--separate-dial-code .iti__selected-flag {
+    background-color: #f7f8fa !important;
+        padding: 0 10px;
+
+}
+.phone-number-picker input{
+    padding-left: 75px !important;}
+
+
